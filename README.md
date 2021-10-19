@@ -1,2 +1,2 @@
 # NatanaelViau.github.io
-<a href="https://natanaelviau.github.io">View demo</a>
+<a href="https://natanaelviau.github.io">View front</a>
